@@ -12,6 +12,7 @@ body {
 {
 	display: flex;
 	justify-content: center;
+	margin-bottom: 30px;
 }
 h1
 {
@@ -228,7 +229,7 @@ h2
 }
 .gender-data
 {
-	margin-bottom: 80px;
+	margin-bottom: 60px;
 }
 .save
 {
